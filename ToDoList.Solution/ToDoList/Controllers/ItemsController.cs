@@ -4,10 +4,10 @@ using System.Collections.Generic;
 
 namespace ToDoList.Controllers
 {
-  public class HomeController : Controller
+  public class ItemsController : Controller
   {
 
-    [HttpGet("/")]
+    [HttpGet("/items")]
     public ActionResult Index()
     {
     List<Item> allItems = Item.GetAll();
