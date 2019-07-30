@@ -21,4 +21,5 @@
 /Users/Guest/Desktop/myList-sharp/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.RazorTargetAssemblyInfo.cs
 /Users/Guest/Desktop/myList-sharp/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.Views.pdb
 /Users/Guest/Desktop/myList-sharp/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CopyComplete
-/Users/Guest/Desktop/myList-sharp/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Home/CreateForm.g.cshtml.cs
+/Users/Guest/Desktop/myList-sharp/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/CreateForm.g.cshtml.cs
+/Users/Guest/Desktop/myList-sharp/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/index.g.cshtml.cs
